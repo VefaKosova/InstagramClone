@@ -17,8 +17,9 @@ struct MainTabView: View {
             
             SearchView()
                 .tabItem {
-                    Image(systemName: "magnifyingglasss")
+                    Image(systemName: "magnifyingglass")
                 }
+            
             
             UploadPostView()
                 .tabItem {
